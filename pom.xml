@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <urlhttp://15.206.89.33:8081/repository/sample-releases/</url>
+		    <url>http://15.206.89.33:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
